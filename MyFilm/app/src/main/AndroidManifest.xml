@@ -15,6 +15,22 @@
         <activity android:name=".Horror" />
         <activity android:name=".Disney" />
         <activity android:name=".Romance" />
+        <activity android:name=".JungleCruise" />
+        <activity android:name=".Venom" />
+        <activity android:name=".FreeGuy" />
+        <activity android:name=".Fsaga" />
+        <activity android:name=".Monster"/>
+        <activity android:name=".Light" />
+        <activity android:name=".IceAge" />
+        <activity android:name=".Turning" />
+        <activity android:name=".Pengabdi" />
+        <activity android:name=".Kkn" />
+        <activity android:name=".Counjuring" />
+        <activity android:name=".Scream" />
+        <activity android:name=".Friend" />
+        <activity android:name=".Mariposa" />
+        <activity android:name=".Kissing" />
+        <activity android:name=".Love" />
         <activity android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
